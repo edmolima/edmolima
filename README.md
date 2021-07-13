@@ -5,7 +5,7 @@
 
 ### You can find me on
 
- [My site](https://edmolima.com) <br>
+⚛️ [My site](https://edmolima.com) <br>
  
 ### 📕 Latest Blog Posts
 
