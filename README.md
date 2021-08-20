@@ -1,6 +1,6 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Edmo!
 
-💻 Software Engineer and at [Mercado Favo](https://github.com/mercadofavo) <br>
+💻 Software Engineer at [Mercado Favo](https://github.com/mercadofavo) <br>
 🏡 Brazilian, Based in São Paulo, SP
 
 ### You can find me on
