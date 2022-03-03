@@ -9,6 +9,9 @@
  
 ### 📕 Latest Blog Posts
 
+
+:brazil:
+
 <!-- BLOG:START -->
 - [Métodos do ciclo de vida de componentes ReactJS — Um mergulho profundo!
 ](https://medium.com/creditas-tech/m%C3%A9todos-do-ciclo-de-vida-de-componentes-reactjs-um-mergulho-profundo-332ed7b3b782)
