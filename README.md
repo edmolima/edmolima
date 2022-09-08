@@ -31,8 +31,8 @@ This is the place where I opensource stuff and break things 🤣
   <br/>
   <p>
     I am a Full Stack Developer with 8+ years of experience, with great contribution to web and mobile projects
-    My engineering principles involve **Continuous Integration** and **Continuous Delivery**.
-    I am an **extreme programming** enthusiast and a big fan of **mob programming**.
+    My engineering principles involve <b>Continuous Integration</b> and <b>Continuous Delivery</b>.
+    I am an <b>extreme programming</b> enthusiast and a big fan of <b>mob programming</b>.
 </p>
 <br/>
 </details>
