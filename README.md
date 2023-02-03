@@ -2,7 +2,7 @@
 
 This is the place where I opensource stuff and break things 🤣
 
-- 🔭 &nbsp;I’m currently working on Favo 😉
+- 🔭 &nbsp;I’m currently working on Onefootball 😉
 - 🌱 &nbsp;I’m currently learning Rust and Go
 - 💬 &nbsp;Ask me about anything related to Javascript/Typescript/Python or React/Express/Flask
 - 📫 &nbsp;How to reach me: [@soedmo](https://twitter.com/soedmo) or <a rel="me" href="https://edmolima.com">edmolima.com</a>
