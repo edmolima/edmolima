@@ -5,7 +5,7 @@ This is the place where I opensource stuff and break things 🤣
 - 🔭 &nbsp;I’m currently working on Onefootball :soccer:
 - 🌱 &nbsp;I’m currently learning Rust and Go
 - 💬 &nbsp;Ask me about anything related to Javascript/Typescript/Python or React/Express/Flask
-- 📫 &nbsp;How to reach me: [@soedmo](https://twitter.com/soedmo) or <a rel="me" href="https://edmolima.com">edmolima.com</a>
+- 📫 &nbsp;How to reach me: [@soedmo](https://twitter.com/soedmo) or <a rel="me" href="https://edmo.wtf">edmo.wtf</a>
 - 🏡 &nbsp; Based in Berlin, Germany :de:
 
 📕 &nbsp;**Latest Blog Posts**
@@ -34,7 +34,7 @@ This is the place where I opensource stuff and break things 🤣
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
   <br/>
   <p>
-    I am a Full Stack Developer with 8+ years of experience, with great contribution to web and mobile projects
+    I am a Web Engineer with 9+ years of experience, with great contribution to web and mobile projects
     My engineering principles involve <b>Continuous Integration</b> and <b>Continuous Delivery</b>.
     I am an <b>extreme programming</b> enthusiast and a big fan of <b>mob programming</b>.
 </p>
