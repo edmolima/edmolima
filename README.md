@@ -5,7 +5,7 @@ This is the place where I opensource stuff and break things 🤣
 - 🔭 &nbsp;I’m currently working on Onefootball :soccer:
 - 🌱 &nbsp;I’m currently learning Rust and Go
 - 💬 &nbsp;Ask me about anything related to Javascript/Typescript/Python or React/Express/Flask
-- 📫 &nbsp;How to reach me: [@soedmo](https://twitter.com/soedmo) or <a rel="me" href="https://edmo.wtf">edmo.wtf</a>
+- 📫 &nbsp;How to reach me: [@soedmo](https://twitter.com/soedmo) or <a rel="me" href="http://edmolima.com/">edmolima</a>
 - 🏡 &nbsp; Based in Berlin, Germany :de:
 
 📕 &nbsp;**Latest Blog Posts**
