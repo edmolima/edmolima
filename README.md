@@ -34,7 +34,7 @@ This is the place where I opensource stuff and break things 🤣
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
   <br/>
   <p>
-    I am a Web Engineer with 9+ years of experience, with great contribution to web and mobile projects
+    I am a Software Engineer with 9+ years of experience, with great contributions to web and mobile projects
     My engineering principles involve <b>Continuous Integration</b> and <b>Continuous Delivery</b>.
     I am an <b>extreme programming</b> enthusiast and a big fan of <b>mob programming</b>.
 </p>
