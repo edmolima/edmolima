@@ -7,6 +7,7 @@
 ### What I'm working on 👨‍💻
 
 💌 Currently creating a better way for build plugins and themes in Obsidian - [Rhyolite](https://rhyolite.io) <br>
+🧛‍♂️ Currently building a vscode theme - [Alucard](https://alucardtheme.com) <br>
 
 ### Find me elsewhere 🌎
 
