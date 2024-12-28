@@ -6,9 +6,8 @@
 
 ### What I'm working on 👨‍💻
 
-💌 Currently creating a better way for build plugins and themes in Obsidian - [Rhyolite](https://rhyolite.io) <br>
-🧛‍♂️ Currently building a vscode theme - [Alucard Nocturne](https://alucardtheme.com) <br>
-🧛‍♂️ Currently building a obsidian theme - [Alucard Nocturne for Obsidian](https://alucardtheme.com/obsidian) <br>
+💌 Currently creating a better way for build plugins and themes in Obsidian - Rhyolite
+🧛‍♂️ Currently building a vscode theme - [Alucard Nocturne]([https://alucardtheme.com](https://marketplace.visualstudio.com/items?itemName=Edmo.alucard-nocturne)) <br>
 
 ### Find me elsewhere 🌎
 
