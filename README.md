@@ -8,7 +8,7 @@
 
 ## What I'm working on 👨‍💻
 
-💌 **Rhyolite:** Creating a better way to build plugins and themes for Obsidian - Rhyolite <br/>  
+💌 **Rhyolite:** Creating a better way to build plugins and themes for Obsidian - Rhyolite<br/>
 🧛‍♂️ **Alucard Nocturne Theme:** Building a VS Code theme - [Alucard Nocturne](https://marketplace.visualstudio.com/items?itemName=Edmo.alucard-nocturne)  
 ⚽ **Onefootball:** Creating for the biggest soccer fans on the world’s largest football platform.
 
