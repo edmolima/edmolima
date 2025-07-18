@@ -8,7 +8,7 @@
 
 ## What I'm working on 👨‍💻
 
-💌 **Rhyolite:** Creating a better way to build plugins and themes for Obsidian - Rhyolite<br/>
+💌 **TypeEngine:** is a blazing-fast, minimal, and extensible rich text core for building the editors of tomorrow.<br/>
 🧛‍♂️ **Alucard Nocturne Theme:** Building a VS Code theme - [Alucard Nocturne](https://marketplace.visualstudio.com/items?itemName=Edmo.alucard-nocturne)  
 ⚽ **Onefootball:** Creating for the biggest soccer fans on the world’s largest football platform.
 
@@ -17,8 +17,8 @@
 ## Find me elsewhere 🌎
 
 - 🚀 [Personal Website](https://edmolima.com)  
-- 🐦 [Twitter/X](https://x.com/soedmo_)  
-- 🦋 [BlueSky](https://edmo.bsky.social)  
+- 🐦 [Twitter/X](https://x.com/soedmo)  
+- 🦋 [BlueSky](https://soedmo.bsky.social)  
 - 📸 [Instagram](https://instagram.com/soedmo)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/edmolima)  
 
