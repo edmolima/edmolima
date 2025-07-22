@@ -9,7 +9,7 @@
 ## What I'm working on 👨‍💻
 
 💌 **TypeEngine:** is a blazing-fast, minimal, and extensible rich text core for building the editors of tomorrow.<br/>
-🧛‍♂️ **Alucard Nocturne Theme:** Building a VS Code theme - [Alucard Nocturne](https://marketplace.visualstudio.com/items?itemName=Edmo.alucard-nocturne)  
+🧛‍♂️ **docdiff:** A CLI tool for comparing two files using document distance algorithms
 ⚽ **Onefootball:** Creating for the biggest soccer fans on the world’s largest football platform.
 
 ---
