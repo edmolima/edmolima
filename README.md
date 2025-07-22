@@ -9,7 +9,7 @@
 ## What I'm working on 👨‍💻
 
 💌 **TypeEngine:** is a blazing-fast, minimal, and extensible rich text core for building the editors of tomorrow.<br/>
-🧛‍♂️ **docdiff:** A CLI tool for comparing two files using document distance algorithms
+📄 **docdiff:** A CLI tool for comparing two files using document distance algorithms. </br>
 ⚽ **Onefootball:** Creating for the biggest soccer fans on the world’s largest football platform.
 
 ---
