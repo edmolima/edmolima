@@ -1,6 +1,7 @@
 # Hey, I'm Edmo! 👋
 
 🤓 **Software Engineer / Web Engineer**
+
 🌍 Originally from **Ceará, Brazil** 🇧🇷  
 🏙️ Currently living in **Berlin, Germany** 🇩🇪  
 
