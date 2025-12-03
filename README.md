@@ -1,6 +1,6 @@
 # Hey, I'm Edmo! 👋
 
-🤓 **Software Engineer / Web Engineer** at [Onefootball](https://onefootball.com)  
+🤓 **Software Engineer / Web Engineer**
 🌍 Originally from **Ceará, Brazil** 🇧🇷  
 🏙️ Currently living in **Berlin, Germany** 🇩🇪  
 
